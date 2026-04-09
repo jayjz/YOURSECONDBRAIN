@@ -1,0 +1,4 @@
+[2026-04-01 02:30 PM] Sarah Chen: Guys, we missed the vendor setup for Apex Corp again. Finance is pissed.
+[2026-04-01 02:35 PM] Mike T.: Do we even have an onboarding checklist?
+[2026-04-01 02:40 PM] Sarah Chen: We used to. Basically it's: 1. Send MSA via DocuSign. 2. Get their billing contact info. 3. Set up the Slack Connect channel. 4. Send the intake questionnaire. But Dave usually sets up the Slack channel.
+[2026-04-01 02:45 PM] Dave: I only do it if Sarah tells me to! We need this documented.

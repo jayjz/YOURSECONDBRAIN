@@ -1,7 +1,7 @@
+# -*- coding: utf-8 -*-
 import os
 
 demo_data = {
-    # --- MORE RAW CHAOS ---
     "raw/slack_exports/stratashift_rebrand_chaos.txt": """
 [2026-03-02 09:14 AM] Dave (Creative): Did anyone get the new hex codes for StrataShift?
 [2026-03-02 09:20 AM] Sarah Chen: I think the client emailed them to Mike.
@@ -27,8 +27,6 @@ Tone of Voice: Traditional, Serious, Corporate.
 [00:04:30] Mike T.: So, edgier tone? Shorter sentences?
 [00:04:35] Client CEO: Exactly. Punchy. "We move freight, faster." That kind of thing. No more corporate jargon.
     """,
-
-    # --- MORE SYNTHESIZED WIKI FILES ---
     "wiki/clients/stratashift.md": """
 # StrataShift
 **Industry:** Enterprise Logistics & Supply Chain
@@ -66,8 +64,6 @@ To prevent missed vendor setups and finance delays, follow this strict 4-step or
 
 [Source: `raw/slack_exports/onboarding_rant.txt`]
     """,
-    
-    # --- AUTOMATED REPORTS (THE PROOF IT WORKS) ---
     "automated_reports/health_check_apr2026.md": """
 # í´– MovingBytes Automated Health Check
 **Run Date:** April 14, 2026
@@ -88,7 +84,6 @@ To prevent missed vendor setups and finance delays, follow this strict 4-step or
     """
 }
 
-# Create the files
 for filepath, content in demo_data.items():
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
     with open(filepath, "w", encoding="utf-8") as f:

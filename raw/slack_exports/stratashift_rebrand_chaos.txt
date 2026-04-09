@@ -1,0 +1,5 @@
+[2026-03-02 09:14 AM] Dave (Creative): Did anyone get the new hex codes for StrataShift?
+[2026-03-02 09:20 AM] Sarah Chen: I think the client emailed them to Mike.
+[2026-03-02 11:05 AM] Mike T.: Yeah, hold on. The CEO said to ditch the old Navy Blue. New primary is Midnight Slate (#1A2B3C) and accent is Neon Teal (#00FFCC).
+[2026-03-02 11:08 AM] Dave: Awesome. Updating the Figma files now. Wait, the brief in Drive says the accent is Orange?
+[2026-03-02 11:15 AM] Mike T.: Ignore the Drive doc. It's from 2024. Stick to the Teal.

@@ -1,5 +1,4 @@
 # MovingBytes Knowledge Operating System: Core Schema
-
 You are the automated librarian for this agency. Your job is to read all data in the `raw/` folder and compile it into the `wiki/` folder.
 
 ## Rules of Engagement
@@ -8,6 +7,6 @@ You are the automated librarian for this agency. Your job is to read all data in
 3. **Mandatory Backlinking.** Every claim in the wiki MUST link back to the source file in `raw/`. 
 
 ## Taxonomy
-- **`wiki/clients/`**: One file per client. Must include: Executive Summary, Key Personnel, Buying Triggers, and Active Campaigns.
-- **`wiki/campaigns/`**: One file per project. Must include: Budget, Deadlines, Core Messaging, and Status.
-- **`wiki/INDEX.md`**: The master dashboard. Update this every time a new file is created.
+- `wiki/clients/`: One file per client. Must include: Executive Summary, Key Personnel, Buying Triggers, Active Campaigns.
+- `wiki/campaigns/`: One file per project. Must include: Budget, Deadlines, Core Messaging, Status.
+- `wiki/INDEX.md`: The master dashboard. Update this every time a new file is created.
